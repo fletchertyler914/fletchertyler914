@@ -45,7 +45,6 @@ module Connect4
       elsif command == 'readme'
         generate_readme
       else
-      else
         raise MalformedCommandError, "unrecognized command"
       end
 
