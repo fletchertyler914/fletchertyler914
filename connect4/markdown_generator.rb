@@ -81,7 +81,7 @@ class MarkdownGenerator
         <img src="https://img.shields.io/badge/proton:  tylerjfletcher.xyz-6D4AFF.svg?style=for-the-badge&logo=protonmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
         </a>
 
-      <br><br>
+      <br>
 
       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -128,8 +128,6 @@ class MarkdownGenerator
         
         ---
 
-        <br>
-
         **:alarm_clock: Most recent moves**
         | Team | Move | Made by |
         | ---- | ---- | ------- |
@@ -157,7 +155,7 @@ class MarkdownGenerator
 
         ---
 
-        Profile inspired by: [Abdul Khalid](https://github.com/0xabdulkhalid)<br>
+        Profile inspired by: [Abdul Khalid](https://github.com/0xabdulkhalid) and [JonathanGin52](https://github.com/JonathanGin52)<br>
         Last Edited on: December 8th, 2022
     HTML
     markdown
