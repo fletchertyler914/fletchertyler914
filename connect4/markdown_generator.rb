@@ -104,7 +104,7 @@ class MarkdownGenerator
     game_status = if game.over?
       "#{game.status_string} [Click here to start a new game!](#{ISSUE_BASE_URL}?title=connect4%7Cnew&#{ISSUE_BODY})\n\n"
     else
-      "It is the **#{current_turn}** team's turn to play.\n\n"
+      "It is the <b>#{current_turn}<b> team's turn to play.<br>"
     end
 
     markdown.concat("#{game_status}\n\n")
