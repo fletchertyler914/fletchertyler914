@@ -81,7 +81,7 @@ class MarkdownGenerator
         <img src="https://img.shields.io/badge/proton:  tylerjfletcher.xyz-6D4AFF.svg?style=for-the-badge&logo=protonmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
         </a>
 
-      <br>
+      <br><br>
 
       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
