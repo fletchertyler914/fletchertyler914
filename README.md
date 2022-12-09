@@ -21,7 +21,7 @@
 - A terminally-curious self-taught full-stack developer
 - Building on [Solana](https://solana.com) full-time with [NATION](https://nation.io)
 - Currently learning [anchor](https://www.anchor-lang.com/)/rust, and looking into [qwik](https://qwik.builder.io/)
-- [Personal website](https://tylerjfletcher.xyz) (under construction/outdate :p)
+- [Personal website](https://tylerjfletcher.xyz) (under construction/outdated :p)
 - 3 kids that drive me insane in the best way
 
 <br><br>
