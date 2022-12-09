@@ -42,8 +42,6 @@ module Connect4
         handle_move(team: team, move: move)
       elsif command == 'new'
         handle_new_game
-      elsif command == 'readme'
-        generate_readme
       else
         raise MalformedCommandError, "unrecognized command"
       end
