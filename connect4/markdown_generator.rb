@@ -133,8 +133,6 @@ class MarkdownGenerator
         **:alarm_clock: Most recent moves**
         | Team | Move | Made by |
         | ---- | ---- | ------- |
-
-        
     HTML
 
     recent_moves.each { |(team, move, user)| markdown.concat("| #{team} | #{move} | #{user} |\n") }
@@ -145,14 +143,6 @@ class MarkdownGenerator
         **:trophy: Leaderboard: Top 10 players with the most game winning moves :1st_place_medal:**
         | Player | Wins |
         | ------ | -----|
-
-        ---
-
-        Profile inspired by: [Abdul Khalid](https://github.com/0xabdulkhalid)
-
-        Last Edited on: December 8th, 2022
-
-        </div>
     HTML
 
     game_winning_players.first(10).each do |player, wins|
@@ -163,7 +153,13 @@ class MarkdownGenerator
       end
       markdown.concat("| #{user} | #{wins} |\n")
     end
+    markdown.concat <<~HTML
 
+        ---
+
+        Profile inspired by: [Abdul Khalid](https://github.com/0xabdulkhalid)<br>
+        Last Edited on: December 8th, 2022
+    HTML
     markdown
   end
 
