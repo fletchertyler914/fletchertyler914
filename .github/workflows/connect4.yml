@@ -37,6 +37,5 @@ jobs:
               issue_title: ENV.fetch('EVENT_ISSUE_TITLE'),
               repository: ENV.fetch('REPOSITORY'),
               user: ENV.fetch('EVENT_USER_LOGIN'),
-              devlopment: true
             ).run
           EORUBY
