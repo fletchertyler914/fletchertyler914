@@ -42,6 +42,9 @@ module Connect4
         handle_move(team: team, move: move)
       elsif command == 'new'
         handle_new_game
+      elsif command == 'readme'
+        generate_readme
+      else
       else
         raise MalformedCommandError, "unrecognized command"
       end
@@ -54,7 +57,7 @@ module Connect4
       comment = ":warning: Your command could not be parsed. Make sure you don't edit the issue title!"
       octokit.error_notification(reaction: 'confused', comment: comment, error: e)
     rescue StandardError => e
-      comment = ":warning: Hmm, something seems to have gone wrong.\nError: #{e.message}\ncc: @JonathanGin52"
+      comment = ":warning: Hmm, something seems to have gone wrong.\nError: #{e.message}\ncc: @fletchertyler914"
       octokit.error_notification(reaction: 'confused', comment: comment, error: e)
     end
 
@@ -88,7 +91,7 @@ module Connect4
     end
 
     def handle_new_game
-      if game.over? || @user == 'JonathanGin52'
+      if game.over? || @user == 'fletchertyler914'
         @game = Game.new
       else
         comment = "There is currently a game still in progress!"

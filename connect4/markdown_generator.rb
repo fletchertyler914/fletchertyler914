@@ -112,9 +112,6 @@ class MarkdownGenerator
 
         <br><br>
 
-        </div>
-
-
     HTML
 
     game_status = if game.over?
@@ -191,6 +188,8 @@ class MarkdownGenerator
       Profile inspired by: [0xabdulkhalid](https://github.com/0xabdulkhalid) and [JonathanGin52](https://github.com/JonathanGin52)
 
       Last Edited on: December 8th, 2022
+
+      </div>
     HTML
   end
 
