@@ -1,10 +1,10 @@
-<h1 align="center">
+<h2 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
   <b>Hey, I'm Tyler Fletcher</b>
 
-  ![](https://komarev.com/ghpvc/?username=fletchertyler914&color=blue)
+  ---
 
-  </h1>
+  </h2>
 
   <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Tyler+Fletcher;self-taught-full-stack;solana<3;terminally-curious;oss<3"></a>
@@ -12,25 +12,25 @@
 
   <br>
 
-  ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-  <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-  <br>
-
-  - A terminally-curious self-taught full-stack developer
-  - Building on [Solana](https://solana.com) full-time with [NATION](https://nation.io)
-  - Currently learning [anchor](https://www.anchor-lang.com/)/rust, and looking into [qwik](https://qwik.builder.io/)
-  - [Personal website](https://tylerjfletcher.xyz) (under construction/outdated :p)
-  - 3 kids that drive me insane in the best way
-
-  <br><br>
-
-  ---
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
   <br>
 
-  ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+- A terminally-curious self-taught full-stack developer
+- Building on [Solana](https://solana.com) full-time with [NATION](https://nation.io)
+- Currently learning [anchor](https://www.anchor-lang.com/)/rust, and looking into [qwik](https://qwik.builder.io/)
+- [Personal website](https://tylerjfletcher.xyz) (under construction/outdated :p)
+- 3 kids that drive me insane in the best way
+
+<br><br><br><br><br>
+
+---
+
+  <br>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
   <br>
 
@@ -44,13 +44,17 @@
 
   </a>
 
-  <br><br><br>
+<br><br>
 
-  ---
+![](https://komarev.com/ghpvc/?username=fletchertyler914&color=blue)
 
-  <br><br>
+  <br>
 
-  ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><br><b>Connect</b>
+---
+
+<br><br>
+
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><br><b>Connect</b>
 
   <br>
 
@@ -74,42 +78,56 @@
   <br>
   <br>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-  ## :game_die: Join my community Connect Four game!
 
-  ![](https://img.shields.io/badge/Moves%20played-2-blue)
-  ![](https://img.shields.io/badge/Completed%20games-0-brightgreen)
-  ![](https://img.shields.io/badge/Total%20players-1-orange)
+It is the **red** team's turn to play.
 
-  Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
-  <br>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <br><br>
-
-It is the **blue** team's turn to play.
-
-|[1](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cblue%7C1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[2](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cblue%7C2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[3](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cblue%7C3&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[4](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cblue%7C4&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[5](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cblue%7C5&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[6](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cblue%7C6&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[7](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cblue%7C7&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|
+|[1](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cred%7C1&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[2](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cred%7C2&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[3](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cred%7C3&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[4](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cred%7C4&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[5](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cred%7C5&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[6](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cred%7C6&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|[7](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cred%7C7&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)|
 | - | - | - | - | - | - | - |
 |![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|
 |![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|
 |![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|
 |![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|
 |![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|
-|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/red.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|
+|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/red.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blue.png)|![](https://raw.githubusercontent.com/fletchertyler914/fletchertyler914/main/images/blank.png)|
 
-Tired of waiting? [Request a move](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cblue%7Cai&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.) from Connect4Bot :robot: 
+<br><br>
 
-Interested in how everything works? [Click here](https://github.com/fletchertyler914/fletchertyler914/tree/main/connect4) to read up on what's happening behind the scenes.
+---
+Tired of waiting?<br>
+[Request an AI move](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cred%7Cai&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
+
+
+Tired of waiting?
+[Request an AI move](https://github.com/fletchertyler914/fletchertyler914/issues/new?title=connect4%7Cdrop%7Cred%7Cai&body=Just+push+%27Submit+new+issue%27+without+editing+the+title.+The+README+will+be+updated+after+approximately+30+seconds.)
+Interested in how everything works? <br>
+[Read more here](https://github.com/fletchertyler914/fletchertyler914/tree/main/connect4)
+
+---
+
+<br>
 
 **:alarm_clock: Most recent moves**
 | Team | Move | Made by |
 | ---- | ---- | ------- |
+
+
+| Blue | 6 | Connect4Bot on behalf of [@fletchertyler914](https://github.com/fletchertyler914) |
 | Red | 1 | [@fletchertyler914](https://github.com/fletchertyler914) |
+---
 
 **:trophy: Leaderboard: Top 10 players with the most game winning moves :1st_place_medal:**
 | Player | Wins |
 | ------ | -----|
+
+---
+
+Profile inspired by: [Abdul Khalid](https://github.com/0xabdulkhalid)
+
+Last Edited on: December 8th, 2022
+
+</div>
 | [@fletchertyler914](https://github.com/fletchertyler914) | 1 |
