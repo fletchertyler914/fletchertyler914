@@ -93,7 +93,8 @@ class MarkdownGenerator
       ![](https://img.shields.io/badge/Completed%20games-0-brightgreen)
       ![](https://img.shields.io/badge/Total%20players-1-orange)
 
-      Everyone is welcome to participate! To make a move, click on the **column number** you wish to drop your disk in.
+      Everyone is welcome to participate! <br>
+      To make a move, click on the <b>column number<b> you wish to drop your disk in.
       <br>
 
       <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
