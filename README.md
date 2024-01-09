@@ -2,30 +2,18 @@
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
         <b>Hey, I'm Tyler Fletcher</b>
       </h1>
-
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Tyler+Fletcher;self-taught-full-stack;solana<3;terminally-curious;oss<3"></a>
-  </p>
-
   <br>
 
 <h2 align='center'> <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> <b>About me</b></h2>
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-  <br>
-
 - A terminally-curious self-taught full-stack developer
-- Building on [Solana](https://solana.com) full-time with [NATION](https://nation.io)
-- Currently learning [anchor](https://www.anchor-lang.com/)/rust, and looking into [qwik](https://qwik.builder.io/)
-- [Personal website](https://tylerjfletcher.xyz) (under construction/outdated :p)
+- Currently learning [anchor](https://www.anchor-lang.com/)/rust, and looking into _everything else that tickles my interest_.
+- [Personal website](https://tylerjfletcher.xyz) (under construction :p)
 - 3 kids that drive me insane in the best way
 
-<br><br><br>
-
 <h2 align='center'><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b></h2>
-
-  <br>
 
   <div align="center">
 
